@@ -1,6 +1,6 @@
 Name:		texlive-mathlig
 Version:	54244
-Release:	1
+Release:	2
 Summary:	Define maths "ligatures"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mathlig
