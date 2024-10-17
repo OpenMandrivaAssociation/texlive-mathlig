@@ -3,7 +3,7 @@ Version:	54244
 Release:	2
 Summary:	Define maths "ligatures"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mathlig
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mathlig
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mathlig.r%{version}.tar.xz
 BuildArch:	noarch
